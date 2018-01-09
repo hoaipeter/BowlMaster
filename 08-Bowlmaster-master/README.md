@@ -1,26 +1,8 @@
 ### Introduction to Bowlmaster ###
 
-
-
-### Section 8 Game Design Document ###
-
-About the Game Design Doc
-+ This part of the section notes is a simple reference for the important specifications of the game. 
-+ This is just for reference, we'll refer to it as needed during the videos.
-
 ### Your Bowlmaster Assets ###
 
 + Your Bowlmaster assets attached.
-
-### Section 8 Notes ###
-
-+ What BowlMaster Teaches 
-+ Manipulating a 3D world. 
-+ Test driven development. 
-+ Introducing Unity 5.
-
-**Useful Links**
-+ Section Links
 
 ### Installing Unity 5 ###
 
@@ -40,10 +22,6 @@ About the Game Design Doc
 + We need it to import .blend files. 
 + It's amazingly powerful, but tricky to get started. 
 + You only need to install for this course, not use.
-+ www.CompleteBlenderCreator.com to learn more.
-
-**Useful Links**
-+ [Complete Blender Creator Course](http://www.CompleteBlenderCreator.com)
 
 ### Import Pin From Blender ###
 
@@ -51,9 +29,6 @@ About the Game Design Doc
 + Learn about render and collider meshes. 
 + Create a pin prefab. 
 + Lay-out all 10 bowling pins on the floor.
-
-**Useful Links**
-+ \* Find out more at www.CompleteBlenderCreator.com 
 
 
 ### 3D Sphere As Bowling Ball ###
@@ -78,8 +53,6 @@ About the Game Design Doc
 + Add Rigidbody to the pins. 
 + Adjust physics so that collisions work\* 
 + Create new, richer pin prefab. 
-
-_\* We will make this more lifelike later_
 
 ### Top Camera Render Texture ###
 
@@ -389,9 +362,3 @@ resources below. You can just as easily use a **while** loop.
 + Fix display of spare on last bowl.
 + Check that 0X displays properly.
 + Talk about upgrading Unity Test Tools.
-
-### DOWNLOAD Section 8 Unity Project ###
-
-
-
-### Section 8 Wrap Up ###
